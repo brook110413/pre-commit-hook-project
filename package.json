@@ -6,7 +6,6 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "postinstall": "hussky install",
     "lint": "eslint src/*.js"
   },
   "devDependencies": {
